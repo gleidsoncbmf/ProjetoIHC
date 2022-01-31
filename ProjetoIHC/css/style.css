@@ -8,3 +8,23 @@ nav{
     background-color:rgb(226, 233, 238);
     
 }
+
+.container{
+    padding: 40px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.imperdivel{
+    background-color:rgb(226, 233, 238);
+}
+
+.icons-nav{
+    padding-right: 25px;
+
+}
+
+.icons-nav::after{
+    color: white;
+}
